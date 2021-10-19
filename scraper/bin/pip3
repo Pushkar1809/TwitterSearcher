@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/pushkar/Dev/Sem5-Projects/iR Project/TwitterSearcher/scrapper/bin/python3.9" "$0" "$@"
+'''exec' "/Users/pushkar/Dev/Sem5-Projects/iR Project/TwitterSearcher/scraper/bin/python3.9" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
